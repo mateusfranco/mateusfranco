@@ -6,10 +6,14 @@ mais de 1 ano de experiencia no mercado de trabalho
 
 ### 👨🏻‍💻 Sobre mim
 
-💡 Sou um engenheiro de software e desenvolvedor mobile 
+💡 Sou um engenheiro de software e desenvolvedor mobile
+
 🎓 Atualmente estudo na Universidade Federal do Céara (UFC) (2017-2021)
+
 ⚽ Em meu tempo livre gosto de ler livros e tocar guitarra
+
 🌇 Colecionador de experiencias e viagens
+
 🔎 A procura de projetos open source para contribuir
 
 #### 🔧 Pilha de conhecimentos 
